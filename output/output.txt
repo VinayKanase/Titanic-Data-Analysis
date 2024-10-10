@@ -1,0 +1,33 @@
+Survival Rate:
+	38.38%
+
+Gender Proportion:
+	Male: 64.76%
+	Female: 35.24%
+
+Survival Rate by Class:
+	1st Class: 62.96%
+	2nd Class: 47.28%
+	3rd Class: 24.24%
+	Class with Highest Survival Rate: 1st Class
+
+Passengers with Siblings or Spouses Aboard:
+	283 passengers
+
+Average Fare by Class:
+	1st Class: $84.15
+	2nd Class: $20.66
+	3rd Class: $13.68
+
+Passengers by Port of Embarkation:
+	Cherbourg (C): 168
+	Queenstown (Q): 77
+	Southampton (S): 644
+
+Survival Rate by Gender:
+	Male: 18.89%
+	Female: 74.20%
+
+Unique Ticket Numbers:
+	681 unique tickets
+
